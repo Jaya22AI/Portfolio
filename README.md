@@ -8,6 +8,9 @@
 - SQL
 - Machine Learning
 - Data Analytics
+- Power BI
+- Tableau
+- Excel 
 
 ## 📫 Connect with me
 - LinkedIn: [Jaya Thakare](https://www.linkedin.com/in/jaya-thakare-71173938a)
